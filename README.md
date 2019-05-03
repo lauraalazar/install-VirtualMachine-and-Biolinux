@@ -23,7 +23,7 @@ sudo ./VBoxLinuxAdditions.run
 
 Follow instruction from https://genomics.sschmeier.com/ngs-tools/index.html and after installation and environment set up, restart VM to get the rigth PATH.
 
-# To update R from 3.2 to 3.4 with Conda
+### To update R from 3.2 to 3.4 with Conda
 ```
 conda create -n myrenv r=3.4.1
 source activate myrenv
